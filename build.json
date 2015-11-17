@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "D:\\\\keystore\\eirc.keystore",
+      "storePassword": "Qsp5p21rz",
+      "alias": "sqapp",
+      "password": "Qsp5p21rz",
+      "keystoreType": ""
+    }
+  }
+}
